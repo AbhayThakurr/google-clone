@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/AbhayThakurr/google-clone/settings/pages/static/css/main.b8967c67.css",
-    "main.js": "/AbhayThakurr/google-clone/settings/pages/static/js/main.a9adab4c.js",
-    "static/js/787.55ac36c2.chunk.js": "/AbhayThakurr/google-clone/settings/pages/static/js/787.55ac36c2.chunk.js",
-    "index.html": "/AbhayThakurr/google-clone/settings/pages/index.html",
-    "main.b8967c67.css.map": "/AbhayThakurr/google-clone/settings/pages/static/css/main.b8967c67.css.map",
-    "main.a9adab4c.js.map": "/AbhayThakurr/google-clone/settings/pages/static/js/main.a9adab4c.js.map",
-    "787.55ac36c2.chunk.js.map": "/AbhayThakurr/google-clone/settings/pages/static/js/787.55ac36c2.chunk.js.map"
+    "main.css": "/AbhayThakurr/google-clone/static/css/main.b8967c67.css",
+    "main.js": "/AbhayThakurr/google-clone/static/js/main.197926cc.js",
+    "static/js/787.55ac36c2.chunk.js": "/AbhayThakurr/google-clone/static/js/787.55ac36c2.chunk.js",
+    "index.html": "/AbhayThakurr/google-clone/index.html",
+    "main.b8967c67.css.map": "/AbhayThakurr/google-clone/static/css/main.b8967c67.css.map",
+    "main.197926cc.js.map": "/AbhayThakurr/google-clone/static/js/main.197926cc.js.map",
+    "787.55ac36c2.chunk.js.map": "/AbhayThakurr/google-clone/static/js/787.55ac36c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b8967c67.css",
-    "static/js/main.a9adab4c.js"
+    "static/js/main.197926cc.js"
   ]
 }
